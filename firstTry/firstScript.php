@@ -3,7 +3,7 @@
 <?php
 
 echo "Hi there\n";
-$x =6*7
+$x =6*7;
 echo "the answer is ",".$x.", " what is the question?";
 
 ?>
